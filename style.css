@@ -1,0 +1,42 @@
+body {
+  background-image: url(https://static.vecteezy.com/system/resources/previews/022/234/504/original/white-and-gold-islamic-arch-background-with-lantern-and-space-for-text-islamic-illustration-vector.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  font-family: Georgia, serif;
+  color: #333333;
+}
+
+h1 {
+  color: green;
+}
+
+table {
+  width: 85%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th, td {
+  padding: 7px;
+}
+
+p {
+  margin: 22px;
+  font-size: 18px;
+}
+
+img {
+  width: 260px;
+  border: 2px solid green;
+}
+
+a:hover {
+  color: red;
+}
+
+button {
+  padding: 6px;
+}
