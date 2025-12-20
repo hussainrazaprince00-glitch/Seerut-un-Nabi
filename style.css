@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 body {
   background-image: url(https://static.vecteezy.com/system/resources/previews/022/234/504/original/white-and-gold-islamic-arch-background-with-lantern-and-space-for-text-islamic-illustration-vector.jpg);
   background-repeat: no-repeat;
@@ -39,4 +40,5 @@ a:hover {
 
 button {
   padding: 6px;
+
 }
